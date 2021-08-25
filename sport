@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Pierwsza strona">
+    <title>Strona</title>
+    
+    <style>
+        h1,h2,h3,h4,h5,h6 {
+    color:gold ;
+    text-align:center;
+    }
+    div{
+text-align:center ;
+}
+img{
+border:1px solid black ;
+}
+body{
+background-color: green;
+}
+table th,td {
+border: 1px solid black;
+
+}
+
+
+    </style>
+    
+
+</head>
+<body> 
+    <h1 >Sport</h1>
+    <h2 >Sport</h2>
+    <h3 >Sport</h3>
+    <h4 >Sport</h4>
+    <h5 >Sport</h5>
+    <h6 >Sport</h6>
+    <p>
+        Definicja sportu- <br> Sportem są wszelkie formy aktywności fizycznej, które przez uczestnictwo doraźne lub zorganizowane wpływają na wypracowanie lub poprawienie kondycji fizycznej i psychicznej, rozwój stosunków społecznych lub osiągnięcie wyników sportowych na wszelkich poziomach.
+    </p>
+    <p>
+        Dziedziny sportu <br>
+        <ins><strong> -Hokej na trawie </strong> <br> </ins>
+        <ins><strong> -Hokej na lodzie </strong> <br> </ins>
+        <ins><strong> -Koszykówka </strong> <br> </ins>
+        <ins><strong> -Siatkówka </strong> <br> </ins>
+        <ins><strong> -Tenis </strong> <br> </ins>
+        <ins><strong> -Piłka Nożna </strong> <br> </ins>
+        <ins><strong> -Boks </strong> <br> </ins>
+
+    </p>
+    <div>
+    <p>
+        <img src="sport.jpg" width="400" >
+    </p>
+    <p>
+        <a href="https://www.livescore.in/pl"> LIVESCORE </a> <br>
+        <a href="https://sportowefakty.wp.pl/"> Wirtualna Polska sportowefakty <br>
+            <img src="images.jpg" width="400" > </a> <br>
+            </p>
+        </div>
+     
+    <p>
+        Lista Rozgrywek krajowych w piłce nożnej 
+        <ol>
+            <li>Polska</li>
+            <li>Anglia</li>
+            <li>Wlochy</li>
+            <li>Hiszpania</li>
+            <li>Francja </li>
+            <li>Niemcy</li>
+            <li>Brazylia</li>
+            <li>Argentyna</li>
+            <li>Belgia</li>
+            <li>Rosja</li>
+            <li>Ukraina </li>
+            <li>Austria</li>
+</ol>
+</ol>
+</p>
+
+<table style="width :100%">
+    <tr>
+        <th>Imię</th>
+        <th>Nazwisko</th>
+        <th>Wiek</th>
+    </tr>
+    <tr>
+        <td>Sebastian</td>
+        <td>Nowak</td>
+        <td>40</td>
+        </tr>
+        <tr>
+            <td>Adrian</td>
+            <td>Kowalczyk</td>
+            <td>50</td>
+            </tr>
+
+
+
+
+
+</table>
+    
+    
+
+   
+
+</body>
+
+
+
+
+
+
+
+</html>
